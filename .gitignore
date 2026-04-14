@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data files that are too large for GitHub
+data/RAW_recipes.csv
+data/vegetarian_recipes.csv
